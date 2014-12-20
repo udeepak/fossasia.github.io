@@ -957,18 +957,13 @@ display:none;/*Implemented by Ramswaroop Soren, just to get that hidden*/
 #slide1{
 	background:url('../img/slide1.jpg') 50% 0 no-repeat fixed;
 	color: #fff;
-	margin: 0;
 	padding: 70px 0 260px 0;
 	background-size: cover;
 }
 
 #slide2{
-	
-	background:rgba(0,0,0,0.4);
 	background: url(../img/slide2.jpg) 50% 0 no-repeat fixed;
 	color: #333333;
-	margin: 0 auto;
-	overflow: hidden;
 	padding: 70px 0;
 	background-size: cover;
 	
@@ -990,7 +985,6 @@ display:none;/*Implemented by Ramswaroop Soren, just to get that hidden*/
 
 #slide5{
 	background: url(../img/slide5.jpg) 50% 0 no-repeat fixed;
-	margin: 0 auto;
 	padding: 70px 0;
 	color: #fff;
 	background-size: cover;
@@ -1005,10 +999,10 @@ display:none;/*Implemented by Ramswaroop Soren, just to get that hidden*/
 
 #slide7{
 	background: url(../img/slide7.jpg) 50% 0 no-repeat fixed;
-	margin: 0 auto;
 	padding: 70px 0;
 	color: #fff;
 	background-size: cover;
+	height:750px;
 }
 
 #slide8{background: url(../img/slide8.jpg) 50% 0 no-repeat fixed;
